@@ -1,0 +1,68 @@
+* {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(242, 242, 242); 
+    background-color: black;
+}
+
+/* Llamar ID - # */
+/* Llamar class - . */
+header {
+    display: inline;
+    background-color: black;
+}
+
+#logoElantipod {
+    display: inline; 
+    height: 180px;
+}
+
+#menu,
+li, a{
+    display: inline;
+    text-align: right;
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+#introduccion {
+    display: block;
+    text-align: center;
+}
+
+.imgCuerpo{
+    display: inline;
+    height: 180px;
+    align-content: center;
+}
+    
+
+body {
+    text-align: justify;
+    padding: 20px;
+}
+
+#listaEpisodios li{
+    display: block;
+    text-align: left;
+}
+
+.episodios{
+    display: inline;
+}
+
+.descripcionIntegrante img, p{
+    display: inline;
+    height: 300px;
+}
+
+footer {
+    display: block;
+    text-align: center;
+}
+
+.redes {
+    display: inline;
+    height: 25px;
+}
